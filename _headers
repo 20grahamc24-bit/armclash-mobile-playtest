@@ -1,0 +1,17 @@
+/index.html
+  Cache-Control: no-cache, no-store, must-revalidate
+
+/Build/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/Build/*.wasm.unityweb
+  Content-Type: application/wasm
+  Content-Encoding: gzip
+
+/Build/*.framework.js.unityweb
+  Content-Type: application/javascript
+  Content-Encoding: gzip
+
+/Build/*.data.unityweb
+  Content-Type: application/octet-stream
+  Content-Encoding: gzip
