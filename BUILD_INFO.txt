@@ -1,4 +1,4 @@
 ArmClash mobile Web playtest
-Built (UTC): 2026-10-05T01:20:51.1866290Z
+Built (UTC): 2026-10-05T01:22:48.1309990Z
 Unity: 6000.3.24f1
 Scene: Assets/Scenes/ArmClashPrototype.unity
